@@ -1,0 +1,56 @@
+h1{
+  font-family: 'Times New Roman', Times, serif;    
+      font-style: oblique;
+
+}
+.masterdiv{
+    background-color: darkslategray;
+      font-family: 'Courier New', Courier, monospace;
+      font-size: 13px;
+      text-shadow: 2px;
+      color: cadetblue;
+  
+  }
+.bitchdiv{
+      margin: 30px;
+      padding: 40px;
+      border: 1px;
+      border-style: dotted;
+      border-color: cadetblue;
+      overflow: auto;
+  }
+.btn {
+margin: 5px;
+}
+main{
+      background-color: darkslategray;
+}
+.footer {
+      background-color: #ffc107;
+    }
+/* TABLE STYLINGSENS */
+table, th, td {
+    border-collapse: collapse;
+    /* width: 100%; */
+    padding: 2px 3px;
+    text-align: left;
+    font-size: 14px;
+    color: white;
+    }
+    th {
+      background-color: #ffc107;
+      color: darkslategray;
+      font-weight:bold;
+      padding: 10px;
+    }
+  
+    tr:hover {background-color: rgb(57, 95, 95);}
+    td{
+    padding:5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-bottom: 1px solid cadetblue;
+    border-right: 0,5px solid  cadetblue;
+    }
+    /* tr:nth-child(even) {background-color: #f2f2f2;} */
+    
